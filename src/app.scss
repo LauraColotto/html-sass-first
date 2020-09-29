@@ -1,0 +1,21 @@
+$mainColor : blue;
+
+body {
+  background-color: lightblue;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: $mainColor;
+}
+
+h3{
+  color: orange;
+}
+
+p{
+  color: $mainColor;
+}
